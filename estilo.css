@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: darkorange;
+}
+
+h3{
+    color: darkorange;
+}
+p{
+    color: darkorange;
+}
+label{
+    color: darkorange;
+    
+}
+legend{
+    color: darkorange;
+}
+button{
+    margin-left: 760px;
+    margin-top: 20px;
+}
+.espaçamento{
+    margin-right: 50px;
+    margin-left: 230px;
+    text-align: center;
+}
+.centralizar{
+    text-align: center;
+}
+#hackcenter{
+    margin-left: 510px;
+    border-radius: 20px;
+}
+#rgm{
+    text-align: center;
+}
+#lorem{
+    text-align: center;
+}
+.god{
+    width: 200px;
+    height: 200px;
+}
+.alterar{
+    margin-top: 10px;
+}
