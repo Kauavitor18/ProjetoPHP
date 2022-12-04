@@ -1,10 +1,13 @@
 <div>
-    <h3 id="receba">Boneco do mito jair messia bolsonaro R$ 22,22</h3>
+    <h3 id="receba">O bom de Guerra 1</h3>
     <img class="god" src="godofwar1.jpg">
+    <p><a class="pao" href="https://bityli.com/MJvEoAwC" target="blank">God com virus</a></p>
+    
 </div>
 <div>
-    <h3 id="jair">Blusa do inbroxavel jair messias bolsonaro R$ 222,22</h3>
-    <img class="god" src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHYKyBgouyhVSWzfLnJ9zi3SGndp5b2nGi17D2N5dHmQV930q0vyLI55uWG4hBSk3ggVV21EDF9Zi79-ujej0mIQ1t6XyBKGUsV1c_v3WULcIlQwWekC4d&usqp=CAE">
+    <h3 id="jair">O bom de Guerra 2</h3>
+    <img class="god" src="god2.jpg">
+    <p><a class="pao" href="https://www.mediafire.com/file/6ryz80ysi9un2iw/pcsx2-v1.7-12+Capitao+Capcom.rar/file" target="blank">God 2 com virus</a></p>
 </div>
 <script>
     alert("Esse site pode trazer riscos de virús e trojan. Aperte em ok para continuar");

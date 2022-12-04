@@ -1,6 +1,6 @@
 <div id="centralizar">
 
-    <form id="espaco" action="sucesso.php">
+    <form id="espaco" action="sucesso.php" method="POST">
         <fieldset class="fale"> 
             <legend>FALE CONOSCO</legend>
             <div class="alterar">
@@ -19,7 +19,6 @@
                 <textarea></textarea>
             </div>
         </fieldset>
-        <button>Enviar</button>
-        
+            <button id="butao">Enviar</button>
     </form>
 </div>

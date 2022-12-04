@@ -25,14 +25,14 @@ button{
 }
 .espaçamento{
     margin-right: 50px;
-    margin-left: 230px;
+    margin-left: 170px;
     text-align: center;
 }
-.centralizar{
+#centralizar{
     text-align: center;
 }
 #hackcenter{
-    margin-left: 510px;
+    margin-left:  390px;
     border-radius: 20px;
 }
 #rgm{
@@ -47,4 +47,17 @@ button{
 }
 .alterar{
     margin-top: 10px;
+}
+.pao{
+    color: blue;
+}
+#thor{
+    margin-left: 390px;
+    border-radius: 20px;
+}
+#alin{
+    text-align: center;
+}
+#butao{
+    padding-left: 20%;
 }
