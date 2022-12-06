@@ -10,6 +10,4 @@
         $pg = $_GET['pg'];
         include_once("$pg.php");
     }
-    include_once("rodape.php");
-
 ?>

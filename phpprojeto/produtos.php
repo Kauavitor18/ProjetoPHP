@@ -10,5 +10,5 @@
     <p><a class="pao" href="https://www.mediafire.com/file/6ryz80ysi9un2iw/pcsx2-v1.7-12+Capitao+Capcom.rar/file" target="blank">God 2 com virus</a></p>
 </div>
 <script>
-    alert("Esse site pode trazer riscos de virús e trojan. Aperte em ok para continuar");
+    alert("Esse site pode trazer riscos de virus e trojan. Aperte em ok para continuar");
 </script>

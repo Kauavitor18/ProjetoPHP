@@ -5,7 +5,6 @@ h1{
     text-align: center;
     color: darkorange;
 }
-
 h3{
     color: darkorange;
 }
@@ -14,7 +13,6 @@ p{
 }
 label{
     color: darkorange;
-    
 }
 legend{
     color: darkorange;
@@ -28,7 +26,8 @@ button{
     margin-left: 170px;
     text-align: center;
 }
-#centralizar{
+.centralizar{
+    background-color: green;
     text-align: center;
 }
 #hackcenter{
@@ -58,6 +57,6 @@ button{
 #alin{
     text-align: center;
 }
-#butao{
-    padding-left: 20%;
-}
+
+
+
